@@ -1,13 +1,13 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
+Pradeep Raamana:
+  name        : "Pradeep Reddy Raamana"
+  uri         : "https://www.crossinvalidation.com"
+  email       : "raamanap@pitt.edu"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  avatar      : "raamana_pic.jpg"
+  twitter     : "Raamana_"
+  scholar     : "Enxh8xcAAAAJ"
 
 Name2 Name2:
   name        : "Name2 Name2"
@@ -15,4 +15,4 @@ Name2 Name2:
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
-  google_plus : "Name"
+  scholar     : "Enxh8xcAAAAJ"
