@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Open Minds - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Open Minds -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
+For a full list of papers, go to [Google Scholar](https://scholar.google.com/citations?user=Enxh8xcAAAAJ&hl=en).
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+## Recent highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
