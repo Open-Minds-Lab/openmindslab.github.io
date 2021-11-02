@@ -1,0 +1,31 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+
+
+
+- name: Pradeep Reddy Raamana
+  photo: Raamana.jpg
+  info: Assistant Professor, University of Pittsburgh;
+  email: raamanap@pitt.edu
+  education1: Founder, <a href="incfg.org"> INCF</a> Special Interest Group in <a href="https://incf.github.io/niQC/"> Neuroimaging Quality Control (niQC)</a>
+  education2: <a href="https://neurocommons.biomedcentral.com/">Editor, OHBM Aperture</a>
+  education3:
+  education4:
+
+- name: "This could be you !"
+  photo: weneeedyou_unclesame.jpeg
+  info: See <a href="/vacancies">Vacancies</a> for more info
+  email: openmindslab@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:

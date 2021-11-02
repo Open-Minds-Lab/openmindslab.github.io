@@ -1,0 +1,19 @@
+- title: "**Does size matter? The relationship between predictive power of single-subject morphometric networks to spatial scale and edge weight**"
+  image: graynet_compare.png
+  description: Network-level analysis based on anatomical, pairwise similarities (e.g., cortical thickness) has been gaining increasing attention recently. However, there has not been a systematic study of the impact of spatial scale and edge definitions on predictive performance. In order to obtain a clear understanding of relative performance, there is a need for systematic comparison. In this study, we present a histogram-based approach to construct subject-wise weighted networks that enable a principled comparison across different methods of network analysis. We design several weighted networks based on three large publicly available datasets and perform a robust evaluation of their predictive power under four levels of separability. An interesting insight generated is that changes in nodal size (spatial scale) have no significant impact on predictive power among the three classification experiments and two disease cohorts studied, i.e., mild cognitive impairment and Alzheimer’s disease from ADNI, and Autism from the ABIDE dataset. We also release an open source python package called graynet to enable others to implement the novel network feature extraction algorithm, which is applicable to other modalities as well (due to its domain- and feature-agnostic nature) in diverse applications of connectivity research. In addition, the findings from the ADNI dataset are replicated in the AIBL dataset using an open source machine learning tool called neuropredict.
+  authors: Raamana P. R., Strother S.C.
+  link:
+    url: https://link.springer.com/article/10.1007/s00429-020-02136-0
+    display:  Link to paper
+  highlight: 0
+  news2:
+
+- title: "**Kernel methods for pattern analysis and machine learning in python**"
+  image: kernelmethods.png
+  description: Foundational library to enable the python community to develop advanced kernel methods such as MKL and HyperKernel etc
+  authors: P Raamana
+  link:
+    url: https://arxiv.org/abs/2005.13483
+    display:  arXiv preprint
+  highlight: 0
+  news2:
