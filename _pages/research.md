@@ -15,7 +15,7 @@ permalink: /research/
 We are looking for multiple passionate team members, at various levels including postdocs, research software engineers, or related variations.
 
 Few projects we will be pursuing include but not limited to:
-
+  
 - Development of multimodal imaging biomarkers, targeting high-impact applications from early detection of Alzheimer’s disease and differential diagnosis to predicting response to treatment in Major Depression,
 - Development of standards for biomarker performance evaluation,
 - Quality control protocols for neuroimaging data (niQC),
@@ -26,7 +26,7 @@ Few projects we will be pursuing include but not limited to:
 Pittsburgh is a beautiful city home to many state of the art academic labs and industry in healthcare research and technology, offering all the buzz of big cities at an amazingly affordable package.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/city/Pitt_Skyline.jpg){: style="width: 500px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/city/Pitt_Skyline.jpg){: style="width: 600px; border: 10px"}
 
 If you are interested, email us at raamanap@pitt.edu, briefly stating your research interests, what projects excite you, what your long term goals are (we welcome and support all career paths) and attach your comprehensive CV. Note: please insert “Application Postdoc”, “Application RSE” or “Application other enquiry” in your subject line along with your name.
 
