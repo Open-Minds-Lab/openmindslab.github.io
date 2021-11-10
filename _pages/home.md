@@ -10,7 +10,7 @@ Welcome to the **Open Minds Lab**, a young and dynamic research lab at the [Univ
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/LabLogo_OpenMinds_horiz.png" style="width: 250px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/LabLogo_OpenMinds_horiz.png" style="width: 400px">
 </figure>
 
 We are located at the University of Pittsburgh in the [Department of Radiology](http://www.rad.pitt.edu), the birthplace of Pittsburgh compound B (PiB) and a ton of other exciting research.
@@ -22,5 +22,5 @@ We are grateful for funding from the University of Pittsburgh, [Department of Ra
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logos/pitt_logo.png" style="width: 250px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/logo_nih_ADRC.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logos/logo_nih_ADRC.jpg" style="width: 250px">
 </figure>

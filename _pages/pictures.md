@@ -5,7 +5,11 @@ excerpt: "Open Minds -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
+# Lab pictures / news / results
+
+<< coming soon >>
+
+# Beautiful Pittsburgh
 
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/city/For-In-the-Lead-pittsburgh-skyline.jpg" >
@@ -13,7 +17,7 @@ permalink: /pictures/
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/city/FallingWater.jpg" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/city/FallingWater.webp" >
 </figure>
 
 

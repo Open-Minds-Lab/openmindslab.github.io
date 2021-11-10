@@ -10,9 +10,9 @@ permalink: /research/
 
  At the new Open minds in Machine learning, INformatics and Data Science (MINDS) lab (follow us at @OpenMindsLab), we aim to solve high-impact biomedical challenges leveraging our expertise in medical image analysis, signal processing, machine learning, biostatistics and data science. With a preference for cost-effective and clinically optimal solutions, we seek to improve patient outcomes with novel multidisciplinary techniques and decision support systems via quality, reproducible, and open science.
 
-![]({{ site.url }}{{ site.baseurl }}/images/logos/LabLogo_OpenMinds_horiz.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/logos/LabLogo_OpenMinds_horiz.jpg){: style="width: 400px; border: 10px"}
 
-We are looking for multiple new team members with a passion for quality, reproducible and open science, at various levels including postdocs, research software engineers, or related variations.
+We are looking for multiple passionate team members, at various levels including postdocs, research software engineers, or related variations.
 
 Few projects we will be pursuing include but not limited to:
 
@@ -26,7 +26,7 @@ Few projects we will be pursuing include but not limited to:
 Pittsburgh is a beautiful city home to many state of the art academic labs and industry in healthcare research and technology, offering all the buzz of big cities at an amazingly affordable package.
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/city/Pitt_Skyline.jpg){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/city/Pitt_Skyline.jpg){: style="width: 500px; border: 10px"}
 
 If you are interested, email us at raamanap@pitt.edu, briefly stating your research interests, what projects excite you, what your long term goals are (we welcome and support all career paths) and attach your comprehensive CV. Note: please insert “Application Postdoc”, “Application RSE” or “Application other enquiry” in your subject line along with your name.
 
