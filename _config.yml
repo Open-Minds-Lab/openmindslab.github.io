@@ -11,7 +11,7 @@ email: openmindslab@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Open minds in Machine learning, INformatics and Data Science
 baseurl: ""
-url: "https://openmindslab.github.io/openminds"
+url: "https://open-minds-lab.github.io/openminds"
 
 include:
   - .htaccess
