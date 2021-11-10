@@ -14,7 +14,11 @@ You will have the opportunity to solve some fundamental challenges at the inters
 
 ### Current open positions
 
-We are currently looking for multiple team members as postdocs and research software engineers (RSE). Please email me at raamanap@pitt.edu if you are interested, briefly stating your research interests, what projects excite you, what your long term goals are (we welcome and support all career paths) and attach your comprehensive CV. **Important**: please insert _"Application Postdoc"_ or "Application RSE" in your subject line along with your name. If you are responding to a specific posting, please identify that as well.
+We are currently looking for multiple team members as postdocs and research software engineers (RSE). 
+
+Please email me at raamanap@pitt.edu if you are interested, briefly stating your research interests, what projects excite you, what your long term goals are (we welcome and support all career paths) and attach your comprehensive CV. 
+
+**Important**: please insert _"Application Postdoc"_ or "Application RSE" in your subject line along with your name. If you are responding to a specific posting, please identify that as well.
 
 ### Masters and Undergrad projects
 If you are a Masters or an Undergrad student at the University of Pittsburgh looking for a project, email me at raamanap@pitt.edu.
