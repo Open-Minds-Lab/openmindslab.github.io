@@ -20,6 +20,18 @@
   education3:
   education4:
 
+
+- name: "Harsh Sinha"
+  photo: harsh_sinha.png
+  info: PhD student focused on machine learning, neuroimaging and informatics
+  email: harsh.sinha@pitt.edu
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+
 - name: "This could be you !"
   photo: weneeedyou_unclesame.jpeg
   info: See <a href="/vacancies">Vacancies</a> for more info
