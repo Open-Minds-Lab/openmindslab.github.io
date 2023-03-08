@@ -1,15 +1,18 @@
 
 - date: 2023-02-20
-  headline: "Even more delighted to annouce Harsh Sinha also has been awarded a Travel Stipend to attend ISMRM 2023. Congrats Harsh! WTG."
+  headline: "Even more delighted to announce Harsh Sinha also has been awarded a Travel Stipend to attend ISMRM 2023. Congrats Harsh! WTG."
   
 - date: 2023-02-02
-  headline: "Very glad to annouce our research on neuroimaging protocol compliance has been selected as an Oral Talk at ISMRM 2023. Congratulations Harsh Sinha for the tremendous amount of high-impact work!"
+  headline: "Very glad to announce our research on neuroimaging protocol compliance has been selected as an Oral Talk at ISMRM 2023. Congratulations Harsh Sinha for the tremendous amount of high-impact work!"
 
 - date: 2022-09-09
-  headline: "First draft release of mrQA - an automatical tool to check for protocol compliance in medical imaging datasets, based on DICOM, BIDS, and other generic formats"
+  headline: "First draft release of mrQA - an automatic tool to check for protocol compliance in medical imaging datasets, based on DICOM, BIDS, and other generic formats"
   
 - date: 2022-09-07
-  headline: "First draft release of MRdataset - an easy to use and extensible data structure to parse and travese many medical imaging dataset formats, including but not limited to DICOM, BIDS, and other generic formats"
+  headline: "First draft release of MRdataset - an easy to use and extensible data structure to parse and traverse many medical imaging dataset formats, including but not limited to DICOM, BIDS, and other generic formats"
+
+- date: 2022-08-25
+  headline: "Very happy for Harsh! Our abstract on protocol compliance and quality assurance has been accepted as a Poster at  INCF Neuroinformatics Assembly 2022."
 
 - date: 2020-11-01
   headline: "Announcing the inaugural Pitt BrainHack called DeBurghing 2020 at https://pitt-brainhack.github.io/DeBurghing2020/"
